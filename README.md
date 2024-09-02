@@ -1,1 +1,1 @@
-I used MySql to create tables, identify primary keys, foreign keys, constraints and then insert data for a mock Dentist's Office for UCM's CIS 3650 Database Management Final Project.
+I used MySql to create tables, identify primary keys, foreign keys, constraints and then insert data for a mock Dentist's Office for UCM's CIS 3650 Database Management Final Project. The project was graded an A based on their instructions and grading criteria.
